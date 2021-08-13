@@ -1,4 +1,4 @@
-## Oi! Eu sou Leonardo Carey :)
+## Roi! Eu sou Leonardo Carey ;)
 
 <div>
   <a href="http://leonardocarey.com">
