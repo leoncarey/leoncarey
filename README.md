@@ -14,6 +14,7 @@
   <img align="center" alt="Carey-CSS" height="30" width="40" src="https://github.com/leoncarey/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carey-Nodejs" height="30" width="40" src="https://github.com/leoncarey/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carey-MongoDb" height="30" width="40" src="https://github.com/leoncarey/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Carey-MySql" height="30" width="40" src="https://github.com/leoncarey/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
