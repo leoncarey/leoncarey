@@ -14,6 +14,7 @@
   <img align="center" alt="Carey-Nodejs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carey-MongoDb" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Carey-MySql" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Carey-MySql" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
   ##
