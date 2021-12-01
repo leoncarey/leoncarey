@@ -7,7 +7,7 @@
 <div>
   <h3>Hi! I'm Leo Carey</h3>
 
-  And I work with some these technologies below:
+  And I work with some of these technologies below:
 </div>
 
 <div style="display: inline_block">
