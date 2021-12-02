@@ -26,9 +26,9 @@
   
 <h4>
   Social:
-</div>
+</h4>
   
-<h4>
+<div>
   <!--a href="https://www.youtube.com/channel/UCk39B1iUJo9Gg9A4kXR0HdQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a -->
   <a href="https://www.linkedin.com/in/leonardo-carey" target="_blank">
@@ -37,3 +37,13 @@
   <a href="mailto:careycoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
 </div>
 
+ ##
+ 
+<h4>
+  Other informations:
+</h4>
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoncarey&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Github Status" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoncarey&theme=gruvbox&layout=compact&langs_count=16" alt="Github Languages" />
+</div>
