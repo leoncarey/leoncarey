@@ -1,6 +1,6 @@
-<div>
+<!--div>
     <img width="100%" src="https://github.com/leoncarey/leoncarey/blob/main/assets/banner.png" alt="Banner" />
-</div>
+</div-->
 
   ##
 
