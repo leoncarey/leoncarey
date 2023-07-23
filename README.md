@@ -2,7 +2,7 @@
     <img width="100%" src="https://github.com/leoncarey/leoncarey/blob/main/assets/banner.png" alt="Banner" />
 </div-->
 
-  ##
+ <!-- ## -->
 
 <div>
   <h3>Hi! I'm Leo Carey</h3>
