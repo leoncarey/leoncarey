@@ -13,9 +13,11 @@
 <div style="display: inline_block">
   <img align="center" alt="Carey-Js" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carey-Typescript" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Carey-VueJs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Carey-NuxtJs" height="20" width="30" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg">
   <img align="center" alt="Carey-React" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Carey-HTML" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carey-CSS" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carey-NextJs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Carey-TailwindCSS" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Carey-Nodejs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carey-MongoDb" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Carey-MySql" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/mysql/mysql-original.svg">
