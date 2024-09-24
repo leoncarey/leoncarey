@@ -14,7 +14,7 @@
   <img align="center" alt="Carey-Js" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carey-Typescript" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Carey-VueJs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Carey-LitHTML" height="20" width="30" src="https://avatars.githubusercontent.com/u/18489846?v=4">
+  <img align="center" alt="Carey-LitHTML" height="20" width="20" src="https://avatars.githubusercontent.com/u/18489846?v=4">
   <img align="center" alt="Carey-NuxtJs" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.png">
   <img align="center" alt="Carey-React" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Carey-NextJs" height="20" width="30" src="https://github.com/leoncarey/devicon/blob/master/icons/nextjs/nextjs-original.svg">
